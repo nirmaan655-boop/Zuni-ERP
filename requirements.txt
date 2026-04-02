@@ -1,3 +1,5 @@
-streamlit
+sstreamlit
 pandas
 xlsxwriter
+db-sqlite3
+
